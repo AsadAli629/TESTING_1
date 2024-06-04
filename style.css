@@ -1,0 +1,38 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+button {
+    position: relative;
+    left: 90%;
+    margin-top: 30px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5%;
+    background-color: white;
+    color: black;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin: 20px 7%;
+    text-align: justify;
+}
+
+.change-background {
+    color: white;
+    background-color: black;
+}
+
+.change-b {
+    color: white;
+    background-color: black;
+    border: 2px solid white;
+}
